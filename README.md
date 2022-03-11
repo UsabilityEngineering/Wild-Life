@@ -26,16 +26,16 @@ The project's goal is to improve education by forming better connections between
 The project’s goal is to help determine if a plant is poisonous in the wild using a picture taken by a phone and a machine learning model. Current methods of categorizing a plant are cumbersome and rely on personal knowledge. In this requirements gathering phase we asked college students about the tools they would need to use this application effectively.
 
 We interviewed college students to understand their needs better:
-Students (n=2) participated in 1-on-1 interviews
-Narrow Use Cases: We discovered that there aren't many use cases on a day to day basis for when a user would need to determine if a plant is poisonous.
-Photo Confirmation: Because of distrust of AI in a potentially dangerous scenario, users require a photo of the given plant to confirm, as well as percentage confidence.
-False-Positives: Because user safety is our number one concern, we need to gear the model towards false positives rather than false negatives.
+- **Students (n=2)** participated in 1-on-1 interviews
+- **Narrow Use Cases**: We discovered that there aren't many use cases on a day to day basis for when a user would need to determine if a plant is poisonous.
+- **Photo Confirmation**: Because of distrust of AI in a potentially dangerous scenario, users require a photo of the given plant to confirm, as well as percentage confidence.
+- **False-Positives**: Because user safety is our number one concern, we need to gear the model towards false positives rather than false negatives.
 
 We surveyed college students to better understand their thoughts about the app:
-Online survey received (n = 13) responses
-80% - Trust: students were inclined to trust an AI to tell them if a plant is poisonous or not
-76.9% - Poisonous Encounters: students who spent time outdoors frequently encountered poisonous plants
-50% - Internet access: of respondents were not sure they had internet access.
+**Online survey received (n = 13)** responses
+- **80% Trust**: students were inclined to trust an AI to tell them if a plant is poisonous or not
+- **76.9% Poisonous Encounters**: students who spent time outdoors frequently encountered poisonous plants
+- **50% Internet access**: of respondents were not sure they had internet access.
 
 
 [Full phase 1 report](requirements/)
