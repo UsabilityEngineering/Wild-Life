@@ -1,6 +1,6 @@
 # Wild Life
 
-!!!Brief introduction to the project's vision!!!
+An app that attempts to recognize possibly poisonous plants that are in your area from a photo the user takes.
 
 ## UX Team Members
 
@@ -10,7 +10,7 @@
 # User-Centered Design Artifacts
  
 !!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
-* [Personas and Scenarios](#) - Coming soon!
+* [Personas and Scenarios](#)
 * [Wireframes](#) - Coming soon!
 * [Prototype](#) - Coming soon!
 
