@@ -43,6 +43,6 @@ Conclusions
 
 Caveats
  - Mostly student survey takers, so we lack a representative sample of most other parts of the population. And most of our data being from students, we only get a      view of younger, generally more active people. This could mean that there is a large segment of the population that would not use this.
-   Not enough survey takers: our sample size ended up being around 15, which does not give us enough to make any statistically sound assumptions based off of their    answers.
+ - Not enough survey takers: our sample size ended up being around 15, which does not give us enough to make any statistically sound assumptions based off of their    answers.
  - Open ended questions: Because of the need for detail about the scenarios people were in we had to use open ended questions, where people ended up giving us very    brief answers.
 
