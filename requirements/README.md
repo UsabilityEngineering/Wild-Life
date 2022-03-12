@@ -5,14 +5,14 @@ Methods:
 Questions we hope to answer: What would you like to see in this app to make it the most usable and helpful. What Priorities do you have when using this app. How long would you wait for an answer to show up?
 Why we chose this method: At this point quantitative data is hard to gather, and It would be good to understand the scope of what the user would use this for.
 2. Questionnaires(n=10)
- - Questions we hope to answer: Parts of the flow that were confusing, what could be improved on, are you alive.
- - Why we chose this method: more insight to the user experience and its super easy and quick to grab a bunch of data.
+   - Questions we hope to answer: Parts of the flow that were confusing, what could be improved on, are you alive.
+   - Why we chose this method: more insight to the user experience and its super easy and quick to grab a bunch of data.
 3. Target questions:
- - Who wants to use our service?
- - How much effort would be involved with using it?
- - Would people trust our analysis of a poisonous plant?
- - Is there a sizable population that encounters poisonous plants on a daily basis?
- - Are people in these situations panicking?
+   - Who wants to use our service?
+   - How much effort would be involved with using it?
+   - Would people trust our analysis of a poisonous plant?
+   - Is there a sizable population that encounters poisonous plants on a daily basis?
+   - Are people in these situations panicking?
 
 
 Survey:
