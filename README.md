@@ -9,7 +9,7 @@ An app that attempts to recognize possibly poisonous plants that are in your are
 
 # User-Centered Design Artifacts
  
-* [Personas and Scenarios](~/Personas_and_scenarios.pdf)
+* [Personas and Scenarios](Personas_and_scenarios.pdf)
 * [Wireframes](#) - Coming soon!
 * [Prototype](#) - Coming soon!
 
