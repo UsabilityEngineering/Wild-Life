@@ -1,14 +1,11 @@
-!!! NOTE: Delete all parts of this file surrounded by three exclamation marks and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
-
-# !!!Project Name!!!
+# Wild Life
 
 !!!Brief introduction to the project's vision!!!
 
 ## UX Team Members
 
 * **[Nolan Brady](https://usabilityengineering.github.io/ux-portfolio-somehobo/)** - Methods, Findings, Conclusions
-* **[Madison Fong](https://usabilityengineering.github.io/ux-portfolio-mnfong/)** - !!!List of Person B's primary contributions!!!
-* **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
+* **[Madison Fong](https://usabilityengineering.github.io/ux-portfolio-mnfong/)** - Personas, Scenarios, and Supplementary Materials
 
 # User-Centered Design Artifacts
  
