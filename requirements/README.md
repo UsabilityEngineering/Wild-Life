@@ -2,7 +2,9 @@
 
 Methods:
 1. Interviews(n=2)
-Questions we hope to answer: What would you like to see in this app to make it the most usable and helpful. What Priorities do you have when using this app. How long would you wait for an answer to show up?
+   - Questions we hope to answer: What would you like to see in this app to make it the most usable and helpful. 
+   - What Priorities do you have when using this app.
+   - How long would you wait for an answer to show up?
 Why we chose this method: At this point quantitative data is hard to gather, and It would be good to understand the scope of what the user would use this for.
 2. Questionnaires(n=10)
    - Questions we hope to answer: Parts of the flow that were confusing, what could be improved on, are you alive.
