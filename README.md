@@ -7,7 +7,7 @@
 ## UX Team Members
 
 * **[Nolan Brady](https://usabilityengineering.github.io/ux-portfolio-somehobo/)** - !!!List of Person A's primary contributions!!!
-* **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
+* **[Madison Fong](https://usabilityengineering.github.io/ux-portfolio-mnfong/)** - !!!List of Person B's primary contributions!!!
 * **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
 
 # User-Centered Design Artifacts
