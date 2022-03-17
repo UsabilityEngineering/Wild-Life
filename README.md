@@ -17,8 +17,6 @@ An app that attempts to recognize possibly poisonous plants that are in your are
 
 **Executive Summary**
 
-The project's goal is to improve education by forming better connections between teachers and students. Teachers want to get to know their students better, but often struggle with learning about a new batch of students each semester. In this requirements gathering phase, we explored teachers' and students' needs to help solve the problem.
-
 The project’s goal is to help determine if a plant is poisonous in the wild using a picture taken by a phone and a machine learning model. Current methods of categorizing a plant are cumbersome and rely on personal knowledge. In this requirements gathering phase we asked college students about the tools they would need to use this application effectively.
 
 We interviewed college students to understand their needs better:
