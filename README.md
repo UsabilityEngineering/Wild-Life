@@ -38,10 +38,14 @@ We surveyed college students to better understand their thoughts about the app:
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+The goal of this phase was to create a mock up of the app through the creation of wireframes. To do this, we used the original goal of the project and the information we learned from Phase One to display an accurate represention of what app aspires to do. 
+
+The wireframe includes **6 Total Pages** that demonstrate what we gathered from Phase One:
+- **Home Page** that opens to the camera for the user to be able to easily take a picture of the plant they want identified. It also includes buttons that will take the user to either their camera roll to upload a picture or to their past uploads to see if the plant has already been identified.
+- **Information Page** that is shown when a plant is identified. It contains a known picture of the plant as well as the user's picture with information about the plant in a dragable text box at the bottom of the page.
+- **More Information** from the original Information Page, the user is able to go into another view that contains more pictures of the identified plant to increase their confidence about the match.
+- **More Matches**  from the original Information Page, if the user doesn't think the plants match, they are able to search other matches from a button at the bottom right. 
+- **Previous Uploads** from the Home Page, the user is able to go into their local history and see the past pictures and matches that they had made in the app.
 
 [Full phase 2 report](design/)
 
