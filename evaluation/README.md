@@ -1,5 +1,7 @@
 # Usability Evaluation
 
+From our heuristic evaluations and cognitive walkthroughs, we found that our app had heuristic scores ranging from 2 to 4, with the lowest scores being in error recovery and help documentation. During the cognitive walkthrough, the testers had chosen the persona of Marcel which highlighted user error due to either blurry pictures or low lighting. When making our prototype and conducting our final tests, we concentrated on making the app more error tolerant and intuitive to use.
+
 [Protocol](Protocol_Tasks.pdf)
 
 [Prototype](https://xd.adobe.com/view/bd267d9b-a3b6-4657-a680-dda580be009d-e875/)
