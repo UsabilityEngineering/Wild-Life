@@ -53,9 +53,10 @@ The wireframe includes **6 Total Pages** that demonstrate what we gathered from 
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+The goal of this phase was to create a workable prototype and to collect data on users using the prototype in two different scenarios. We aim to use this information to imporve the prototype and further the usability of the overall app
+- Users don't understand that our app **works offline**
+- **Comparing** two plant images increases user confidence in the result
+- Users find that the **more possible matches** button is not visible enough
+- **Home page icons** confused a couple users, specifically they want to see them switched around to match snapchat's UI
 
 [Full phase 3 report](evaluation/)
