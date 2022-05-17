@@ -4,8 +4,8 @@ An app that attempts to recognize possibly poisonous plants that are in your are
 
 ## UX Team Members
 
-* **[Nolan Brady](https://usabilityengineering.github.io/ux-portfolio-somehobo/)** - Methods, Findings, Conclusions
-* **[Madison Fong](https://usabilityengineering.github.io/ux-portfolio-mnfong/)** - Personas, Scenarios, and Supplementary Materials
+* **[Nolan Brady](https://usabilityengineering.github.io/ux-portfolio-somehobo/)** - Methods, Findings, Conclusions, writing p01, p02, and p03
+* **[Madison Fong](https://usabilityengineering.github.io/ux-portfolio-mnfong/)** - Personas, Scenarios, and Supplementary Materials, writing p01, p02, and p03
 
 # User-Centered Design Artifacts
  
