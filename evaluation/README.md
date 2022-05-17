@@ -1,6 +1,4 @@
-# Requirements Gathering
-
-**SUMMARY**
+# Usability Evaluation
 
 [Protocol](Protocol_Tasks.pdf)
 
