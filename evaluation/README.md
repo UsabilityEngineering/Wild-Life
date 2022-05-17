@@ -4,7 +4,7 @@
 
 [Protocol](Protocol_Tasks.pdf)
 
-**PROTOTYPE**
+[Prototype](https://xd.adobe.com/view/bd267d9b-a3b6-4657-a680-dda580be009d-e875/)
 
 The tasks are designed to determine how usable the users found the app, how fast they were able to complete the task, as well as how trustworthy they found the result. Task one was simply for the user to determine what the plant in front of them was. This would convey how efficient the app design is and if the user is able to quickly learn how to use the app. Task two was similar, but there were instead three plants that the tester had to identify, one of which was harmful. This task was designed to test the memorability of the app as well as the error tolerance now that they had performed the task once. Both tasks were then given a rating from one to five on how usable the tester found the app with one being very easy and five being very hard. The app is also given a trustworthiness rating from one (not at all) to five (very) to see if the user trusted the plant results that the AI matched. 
 
